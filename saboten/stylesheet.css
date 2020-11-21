@@ -1,0 +1,17 @@
+header{
+ color:navy;
+}
+
+header{
+  background-image: url("https://cdn130.picsart.com/274801397045201.jpg?type=webp&to=min&r=640");
+  height: 1800px;
+}
+
+img{
+  width: 400px;
+  height: 200px
+}
+
+span{
+  color: orange;
+}
