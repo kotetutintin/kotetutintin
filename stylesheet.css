@@ -1,21 +1,17 @@
-body{
-color:orange;
-font-size: 40px;
-text-align:center;
-}
-ul {
-  list-style: none;
-  padding:300px;
-}
 header{
-  background-image: url("https://image.freepik.com/free-vector/lantern-logo_9850-63.jpg");
-  height: 1100px;
+ color:navy;
 }
 
-h1{
-  color:purple;
-  height: 100px;
+header{
+  background-image: url("https://cdn130.picsart.com/274801397045201.jpg?type=webp&to=min&r=640");
+  height: 1800px;
 }
+
+img{
+  width: 400px;
+  height: 200px
+}
+
 span{
-  color:yellow;
+  color: orange;
 }
